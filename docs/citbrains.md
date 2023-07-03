@@ -1,5 +1,11 @@
 ## CIT Brains
 
+Training  
+[![IMAGE](http://img.youtube.com/vi/ZAp_mbiJEBI/0.jpg)](https://youtu.be/ZAp_mbiJEBI)
+
+Trained behavior  
+[![IMAGE](http://img.youtube.com/vi/eFTWFfTdans/0.jpg)](https://youtu.be/eFTWFfTdans)
+
 ### Environment  
 OS: Ubuntu18.04, 20.04  
 Python3.8  
