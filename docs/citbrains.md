@@ -49,5 +49,5 @@ pip install tensorboard
 ### Excecute
 
 ```
-Python train.py task=GankenKun capture_video=True capture_video_freq=1500 capture_video_len=300 force_render=False
+python train.py task=GankenKunKick capture_video=True capture_video_freq=1500 capture_video_len=300 force_render=False
 ```
