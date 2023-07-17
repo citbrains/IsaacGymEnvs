@@ -19,6 +19,7 @@ IsaacGym_Preview_4_Package.tar.gz
 
 - Change to the python folder and type
 ```
+pip install --upgrade pip
 pip install -e .
 ```
 
